@@ -48,18 +48,20 @@ export default function HeroSection({ onOpenVideo }) {
 
         {/* Dual Call-to-Action Group */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-          <button
-            onClick={onOpenVideo}
+          <a
+            href="https://www.youtube.com/watch?v=t2qQ9k7x84c"
+            target="_blank"
+            rel="noopener noreferrer"
             className="apple-pill-btn w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-3.5 bg-slate-900 hover:bg-slate-800 text-white font-semibold text-sm shadow-sm cursor-pointer group"
           >
             <div className="w-6 h-6 rounded-full bg-white/20 flex items-center justify-center group-hover:scale-110 transition-transform">
               <Play className="w-3 h-3 fill-white text-white ml-0.5" />
             </div>
             <span>Watch Pitch Video</span>
-          </button>
+          </a>
 
           <a
-            href="https://capacityconnect-imd.vercel.app"
+            href="https://capacity-connect-lilac-five.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="apple-pill-btn w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-3.5 bg-white hover:bg-slate-50 border border-slate-200/90 text-slate-900 font-semibold text-sm shadow-2xs group cursor-pointer"

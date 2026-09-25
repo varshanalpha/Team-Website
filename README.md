@@ -11,7 +11,7 @@
 ## 🌐 Live Deployments
 
 * **Team Showcase & Pitch Website**: [https://capacityconnect-sih.vercel.app/](https://capacityconnect-sih.vercel.app/)
-* **Interactive Application Prototype**: [https://capacityconnect-imd.vercel.app/](https://capacityconnect-imd.vercel.app/)
+* **Interactive Application Prototype**: [https://capacity-connect-lilac-five.vercel.app/](https://capacity-connect-lilac-five.vercel.app/)
 
 ---
 

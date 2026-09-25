@@ -66,7 +66,7 @@ export default function VideoModal({ isOpen, onClose }) {
               Close
             </button>
             <a
-              href="https://capacityconnect-imd.vercel.app"
+              href="https://capacity-connect-lilac-five.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="apple-pill-btn inline-flex items-center gap-2 px-5 py-2.5 bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs uppercase tracking-wider shadow-sm"
