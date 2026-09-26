@@ -32,12 +32,12 @@
 ## 👥 Team MindNova & Mentors
 
 ### Team Members
-* **Varshan R** — Team Leader | AI / ML & Architecture
-* **Sheshagiri M** — Full Stack & Cloud Infrastructure
-* **Mukesh S** — Backend & Database Engineering
-* **Preethi S** — Frontend & UI/UX Design
-* **Raja Priya B** — Data Analysis & Meteorological Domain Workflows
-* **Rohith K** — Quality Assurance, Testing & Evaluation Metrics
+* **Varshan R** — Team Lead & System Architect
+* **Sheshagiri S** — Frontend Developer & UI/UX Engineer
+* **Suganth R** — Backend & API Developer
+* **Jeevith LS** — Database & Authentication Engineer
+* **Subasri S** — AI & Competency Matching Engineer
+* **Srisha Radhakrishnan** — DevOps, Testing & Documentation Engineer
 
 ### Mentors
 * **Muthusamy K** — Assistant Professor (Senior Grade)
