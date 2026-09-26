@@ -49,7 +49,7 @@ export default function HeroSection({ onOpenVideo }) {
         {/* Dual Call-to-Action Group */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <a
-            href="https://www.youtube.com/watch?v=t2qQ9k7x84c"
+            href="https://youtu.be/4y547fkgICk"
             target="_blank"
             rel="noopener noreferrer"
             className="apple-pill-btn w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-3.5 bg-slate-900 hover:bg-slate-800 text-white font-semibold text-sm shadow-sm cursor-pointer group"

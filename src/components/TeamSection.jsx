@@ -29,10 +29,10 @@ export const TEAM_MEMBERS = [
     image: '/images/sheshagiri.jpg',
     avatarBg: 'bg-emerald-600',
     description:
-      'Developed the responsive user interface using React 18, Vite, Tailwind CSS, Lucide React and Recharts, including Trainee, Trainer and Admin dashboards.',
-    skills: ['React 18', 'Tailwind CSS', 'Vite', 'Lucide React', 'Recharts'],
+      'Developed the responsive user interface using React, Vite, Tailwind CSS, Lucide React and Recharts, including Trainee, Trainer and Admin dashboards.',
+    skills: ['React', 'Tailwind CSS', 'Vite', 'Lucide React', 'Recharts'],
     contributions:
-      'Developed the responsive user interface using React 18, Vite, Tailwind CSS, Lucide React and Recharts, including Trainee, Trainer and Admin dashboards.',
+      'Developed the responsive user interface using React, Vite, Tailwind CSS, Lucide React and Recharts, including Trainee, Trainer and Admin dashboards.',
   },
   {
     id: 3,

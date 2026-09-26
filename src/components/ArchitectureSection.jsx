@@ -14,10 +14,10 @@ import {
 export default function ArchitectureSection() {
   const stack = [
     {
-      name: 'React 18 & Vite',
+      name: 'React & Vite',
       category: 'Frontend Client',
-      role: 'Responsive client interface built with React 18, Vite, Tailwind CSS, Lucide React icons, and Recharts telemetry visualization.',
-      tags: ['React 18', 'Vite', 'Tailwind CSS', 'Recharts', 'Lucide React'],
+      role: 'Responsive client interface built with React, Vite, Tailwind CSS, Framer Motion animations, Lucide React icons, and Recharts telemetry visualization.',
+      tags: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion', 'Lucide React', 'Recharts'],
       icon: Code2,
       color: 'text-sky-600 bg-sky-50 border-sky-100',
     },

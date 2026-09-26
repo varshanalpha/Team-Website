@@ -18,7 +18,7 @@ export default function VideoModal({ isOpen, onClose }) {
 
           <div className="flex items-center gap-3">
             <a
-              href="https://youtu.be/t2qQ9k7x84c"
+              href="https://youtu.be/4y547fkgICk"
               target="_blank"
               rel="noopener noreferrer"
               className="text-xs font-semibold text-slate-600 hover:text-red-600 transition flex items-center gap-1.5"
@@ -39,7 +39,7 @@ export default function VideoModal({ isOpen, onClose }) {
         {/* Responsive YouTube Player Iframe */}
         <div className="relative aspect-video w-full bg-black">
           <iframe
-            src="https://www.youtube.com/embed/t2qQ9k7x84c?autoplay=1&rel=0"
+            src="https://www.youtube.com/embed/4y547fkgICk?autoplay=1&rel=0"
             title="Capacity Connect Competency Driven Learning and Capacity Building Portal"
             className="w-full h-full border-0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
