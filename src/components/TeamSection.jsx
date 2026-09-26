@@ -36,13 +36,13 @@ export const TEAM_MEMBERS = [
   },
   {
     id: 3,
-    name: 'Suganth R',
+    name: 'Sugandh R',
     role: 'Backend & API Developer',
     badge: 'CODE',
     badgeType: 'code',
     memberNo: 'Member 3',
     initials: 'SR',
-    image: '/images/suganth.jpg?v=3',
+    image: '/images/sugandh.jpg?v=3',
     avatarBg: 'bg-sky-600',
     description:
       'Developed backend services and REST APIs using Python, FastAPI and Pydantic, including API validation, business logic and frontend-backend integration.',

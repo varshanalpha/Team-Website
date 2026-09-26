@@ -34,7 +34,7 @@
 ### Team Members
 * **Varshan R** — Team Lead & System Architect
 * **Sheshagiri S** — Frontend Developer & UI/UX Engineer
-* **Suganth R** — Backend & API Developer
+* **Sugandh R** — Backend & API Developer
 * **Jeevith LS** — Database & Authentication Engineer
 * **Subasri S** — AI & Competency Matching Engineer
 * **Srisha Radhakrishnan** — DevOps, Testing & Documentation Engineer
