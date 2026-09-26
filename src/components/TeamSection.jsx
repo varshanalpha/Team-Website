@@ -42,7 +42,7 @@ export const TEAM_MEMBERS = [
     badgeType: 'code',
     memberNo: 'Member 3',
     initials: 'SR',
-    image: '/images/suganth.jpg?v=2',
+    image: '/images/suganth.jpg?v=3',
     avatarBg: 'bg-sky-600',
     description:
       'Developed backend services and REST APIs using Python, FastAPI and Pydantic, including API validation, business logic and frontend-backend integration.',
